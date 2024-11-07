@@ -5,7 +5,7 @@ document.currentScript = document.currentScript || (function() {
 
 const key = document.currentScript.dataset.key
 
-const baseUrl = document.currentScript.dataset.baseUrl || 'https://sushilytics.com'
+const baseUrl = document.currentScript.dataset.url || 'https://sushilytics.com'
 
 class Sushilytics {
     names = []
