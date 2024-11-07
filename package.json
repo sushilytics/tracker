@@ -1,0 +1,12 @@
+{
+  "name": "sushilyticsjs",
+  "module": "script.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "version": "0.0.1"
+}
